@@ -32,7 +32,7 @@ The source header's `NOT TESTED` designation documents its *creation-time* state
 
 See **the unmodified `LICENSE.md`**. PolyForm Strict 1.0.0 grants permitted non-commercial uses including personal research/experiments/testing as defined there, but does **not** grant general rights to distribute, modify, or make new works based on the software. Commercial uses need separate written permission from the rights holder. It is **not** an OSI open-source licence, and publication does not technically prevent copying or prevent GitHub forks.
 
-Ownership/third-party rights must be checked before publication; a copyright notice or repository ownership is not by itself proof of legal title. This candidate grants no licence until a rights holder actually distributes it under the proposed terms.
+Ownership and third-party rights have not been independently determined (see NOTICE.md); a copyright notice or repository ownership is not by itself proof of legal title. This release is distributed under PolyForm Strict 1.0.0 (see LICENSE.md).
 
 ## Verification
 
