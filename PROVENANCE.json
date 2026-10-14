@@ -1,0 +1,19 @@
+{
+  "format": "BISHOP-K1-R2-PUBLIC-CANDIDATE-1",
+  "project": "BISHOP — The Arthurian Engineering Project",
+  "component": "K1 R2 canonical JSON byte-format codec",
+  "designated_rights_holder": "Ricky Jones (claimed; clearance pending)",
+  "source_file": "src/k1_codec_R2.py",
+  "source_bytes": 13742,
+  "source_sha256": "ebd500052c1f00903b19fa8342d7fbd8efd13c0109f299629f939738adcbcc6f",
+  "licence_text": "PolyForm Strict 1.0.0 (proposed prior to public release)",
+  "licence_source": "https://github.com/polyformproject/polyform-licenses/blob/1.0.0/PolyForm-Strict-1.0.0.md",
+  "licence_git_blob_sha1": "90abd0e6c64a135f42451762337a397bf27f4862",
+  "release_signature": "NONE — UNSIGNED",
+  "independent_reproduction": "NOT ESTABLISHED",
+  "reported_tests": "Lala: 92/92 harness checks pass including 200000-case comparison, on UID 0; not independently reproduced",
+  "test_harness_published": false,
+  "contracts_published": false,
+  "production_ready": false,
+  "status": "PUBLIC-FACING DRAFT; NOT RELEASED"
+}
